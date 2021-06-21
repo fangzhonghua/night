@@ -1,0 +1,11 @@
+{
+  "name": "night",
+  "version": "1.0.0",
+  "description": "就是玩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "方中华 <f0322zh@163.com>",
+  "license": "ISC"
+}
